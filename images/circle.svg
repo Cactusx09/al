@@ -1,0 +1,22 @@
+<svg width="80" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Rectangle</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(4344 -2838)">
+<g id="Rectangle">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-4344 2838)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-4344 2838)" fill="url(#paint0_linear)" style="mix-blend-mode:darken"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(6.12323e-15 100 -100 6.12323e-15 100 -6.12323e-15)">
+<stop offset="0" stop-color="#56CCF2"/>
+<stop offset="1" stop-color="#59DDA9"/>
+</linearGradient>
+<path id="path0_fill" d="M 0 50C 0 22.3858 22.3858 0 50 0C 77.6142 0 100 22.3858 100 50C 100 77.6142 77.6142 100 50 100C 22.3858 100 0 77.6142 0 50Z"/>
+<path id="path1_stroke_2x" d="M 50 95C 25.1472 95 5 74.8528 5 50L -5 50C -5 80.3757 19.6243 105 50 105L 50 95ZM 95 50C 95 74.8528 74.8528 95 50 95L 50 105C 80.3757 105 105 80.3757 105 50L 95 50ZM 50 5C 74.8528 5 95 25.1472 95 50L 105 50C 105 19.6243 80.3757 -5 50 -5L 50 5ZM 50 -5C 19.6243 -5 -5 19.6243 -5 50L 5 50C 5 25.1472 25.1472 5 50 5L 50 -5Z"/>
+</defs>
+</svg>
