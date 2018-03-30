@@ -32,3 +32,105 @@
 <path id="path3_fill" d="M 0 4C 0 1.79086 1.79086 0 4 0L 60 0L 60 8L 4 8C 1.79086 8 0 6.20914 0 4L 0 4Z"/>
 </defs>
 </svg>
+<svg width="232" height="35" viewBox="0 0 232 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(4454 -228)">
+<g id="Group">
+<g id="Rectangle 4">
+<use xlink:href="#path0_fill" transform="translate(-4454 237)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle 4.10">
+<use xlink:href="#path1_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -4389 228)" fill="#59DEA8"/>
+</g>
+<g id="Rectangle 4.11">
+<use xlink:href="#path1_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -4229 228)" fill="#A8B4E5"/>
+</g>
+<g id="Rectangle 4.8">
+<use xlink:href="#path2_fill" transform="translate(-4400 241)" fill="#A8B4E5"/>
+</g>
+<g id="Rectangle 4.5">
+<use xlink:href="#path3_fill" transform="translate(-4449 241)" fill="#59DEA8"/>
+<use xlink:href="#path3_fill" transform="translate(-4449 241)" fill="url(#paint5_linear)"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint5_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(44.4828 -2.65492e-05 0.000199119 4988 6.72404 -2486)">
+<stop offset="0" stop-color="#56CCF2"/>
+<stop offset="1" stop-color="#59DEA8"/>
+</linearGradient>
+<path id="path0_fill" d="M 0 8C 0 3.58172 3.58172 0 8 0L 224 0C 228.418 0 232 3.58172 232 8L 232 8C 232 12.4183 228.418 16 224 16L 8 16C 3.58172 16 0 12.4183 0 8L 0 8Z"/>
+<path id="path1_fill" d="M 0 1C 0 0.447715 0.447715 0 1 0L 34 0C 34.5523 0 35 0.447715 35 1L 35 1C 35 1.55228 34.5523 2 34 2L 1 2C 0.447715 2 0 1.55228 0 1L 0 1Z"/>
+<path id="path2_fill" d="M 0 4C 0 1.79086 1.79086 0 4 0L 170 0C 172.209 0 174 1.79086 174 4L 174 4C 174 6.20914 172.209 8 170 8L 4 8C 1.79086 8 0 6.20914 0 4L 0 4Z"/>
+<path id="path3_fill" d="M 0 4C 0 1.79086 1.79086 0 4 0L 60 0L 60 8L 4 8C 1.79086 8 0 6.20914 0 4L 0 4Z"/>
+</defs>
+</svg>
+<svg width="232" height="35" viewBox="0 0 232 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(4454 -228)">
+<g id="Group">
+<g id="Rectangle 4">
+<use xlink:href="#path0_fill" transform="translate(-4454 237)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle 4.10">
+<use xlink:href="#path1_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -4389 228)" fill="#59DEA8"/>
+</g>
+<g id="Rectangle 4.11">
+<use xlink:href="#path1_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -4229 228)" fill="#A8B4E5"/>
+</g>
+<g id="Rectangle 4.8">
+<use xlink:href="#path2_fill" transform="translate(-4400 241)" fill="#A8B4E5"/>
+</g>
+<g id="Rectangle 4.5">
+<use xlink:href="#path3_fill" transform="translate(-4449 241)" fill="#59DEA8"/>
+<use xlink:href="#path3_fill" transform="translate(-4449 241)" fill="url(#paint5_linear)"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint5_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(44.4828 -2.65492e-05 0.000199119 4988 6.72404 -2486)">
+<stop offset="0" stop-color="#56CCF2"/>
+<stop offset="1" stop-color="#59DEA8"/>
+</linearGradient>
+<path id="path0_fill" d="M 0 8C 0 3.58172 3.58172 0 8 0L 224 0C 228.418 0 232 3.58172 232 8L 232 8C 232 12.4183 228.418 16 224 16L 8 16C 3.58172 16 0 12.4183 0 8L 0 8Z"/>
+<path id="path1_fill" d="M 0 1C 0 0.447715 0.447715 0 1 0L 34 0C 34.5523 0 35 0.447715 35 1L 35 1C 35 1.55228 34.5523 2 34 2L 1 2C 0.447715 2 0 1.55228 0 1L 0 1Z"/>
+<path id="path2_fill" d="M 0 4C 0 1.79086 1.79086 0 4 0L 170 0C 172.209 0 174 1.79086 174 4L 174 4C 174 6.20914 172.209 8 170 8L 4 8C 1.79086 8 0 6.20914 0 4L 0 4Z"/>
+<path id="path3_fill" d="M 0 4C 0 1.79086 1.79086 0 4 0L 60 0L 60 8L 4 8C 1.79086 8 0 6.20914 0 4L 0 4Z"/>
+</defs>
+</svg>
+<svg width="232" height="35" viewBox="0 0 232 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(4454 -228)">
+<g id="Group">
+<g id="Rectangle 4">
+<use xlink:href="#path0_fill" transform="translate(-4454 237)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle 4.10">
+<use xlink:href="#path1_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -4389 228)" fill="#59DEA8"/>
+</g>
+<g id="Rectangle 4.11">
+<use xlink:href="#path1_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -4229 228)" fill="#A8B4E5"/>
+</g>
+<g id="Rectangle 4.8">
+<use xlink:href="#path2_fill" transform="translate(-4400 241)" fill="#A8B4E5"/>
+</g>
+<g id="Rectangle 4.5">
+<use xlink:href="#path3_fill" transform="translate(-4449 241)" fill="#59DEA8"/>
+<use xlink:href="#path3_fill" transform="translate(-4449 241)" fill="url(#paint5_linear)"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint5_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(44.4828 -2.65492e-05 0.000199119 4988 6.72404 -2486)">
+<stop offset="0" stop-color="#56CCF2"/>
+<stop offset="1" stop-color="#59DEA8"/>
+</linearGradient>
+<path id="path0_fill" d="M 0 8C 0 3.58172 3.58172 0 8 0L 224 0C 228.418 0 232 3.58172 232 8L 232 8C 232 12.4183 228.418 16 224 16L 8 16C 3.58172 16 0 12.4183 0 8L 0 8Z"/>
+<path id="path1_fill" d="M 0 1C 0 0.447715 0.447715 0 1 0L 34 0C 34.5523 0 35 0.447715 35 1L 35 1C 35 1.55228 34.5523 2 34 2L 1 2C 0.447715 2 0 1.55228 0 1L 0 1Z"/>
+<path id="path2_fill" d="M 0 4C 0 1.79086 1.79086 0 4 0L 170 0C 172.209 0 174 1.79086 174 4L 174 4C 174 6.20914 172.209 8 170 8L 4 8C 1.79086 8 0 6.20914 0 4L 0 4Z"/>
+<path id="path3_fill" d="M 0 4C 0 1.79086 1.79086 0 4 0L 60 0L 60 8L 4 8C 1.79086 8 0 6.20914 0 4L 0 4Z"/>
+</defs>
+</svg>
